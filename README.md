@@ -1,0 +1,2 @@
+# stepik_auto_tests_course
+HW fro stepik_auto_tests_course
